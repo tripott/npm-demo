@@ -1,0 +1,14 @@
+{
+  "name": "npm-demo",
+  "version": "1.0.0",
+  "description": "Trip is the best.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm-demo"
+  ],
+  "author": "Tripster",
+  "license": "ISC"
+}
