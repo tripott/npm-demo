@@ -10,5 +10,8 @@
     "npm-demo"
   ],
   "author": "Tripster",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "ramda": "^0.23.0"
+  }
 }
